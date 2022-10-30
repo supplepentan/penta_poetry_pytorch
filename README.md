@@ -1,4 +1,4 @@
-This is development environment that using pytorch under poetry.
+This is development environment using pytorch under poetry.
 
 - poetry 1.2.2
 - python 3.8.6
